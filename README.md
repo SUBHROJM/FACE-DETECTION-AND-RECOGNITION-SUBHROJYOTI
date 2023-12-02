@@ -15,7 +15,9 @@ Cell 13 -evaluation of reqd model.
 Cell 14 - first batch after training the model on custom dataset.
 Cell 15-inverse normalization with required results.
 Normalization- Normalization in image processing refers to the process of standardizing the pixel values of an image to a common scale, typically with a mean of 0 and a standard deviation of 1. 
-Inverse Normalization - Inverse normalization in image processing is the process of reverting normalized pixel values back to their original scale after a normalization transformation has been applied. This
+Inverse Normalization - Inverse normalization in image processing is the process of reverting normalized pixel values back to their original scale after a normalization transformation has been applied. 
+Link to the dataset -https://drive.google.com/drive/folders/1cxuEV5SEOLM7t6NLtNpV8wVOTdlcmfUe?usp=drive_link
+
 
 
 
